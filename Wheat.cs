@@ -1,6 +1,9 @@
+using System.Runtime.Serialization;
+
 namespace OOP___Lab_8;
 
 //Wheat Class
+[DataContract]
 public class Wheat : Product {
     public Wheat() : base(10,50,7,2,1) {
         

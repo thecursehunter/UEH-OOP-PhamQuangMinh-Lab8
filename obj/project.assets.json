@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LilacNeverLoves\\.nuget\\packages\\": {}
+    "/home/lilac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\Object-Oriented-Programming\\OOP - Lab 8\\OOP - Lab 8.csproj",
+      "projectUniqueName": "/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/OOP - Lab 8.csproj",
       "projectName": "OOP - Lab 8",
-      "projectPath": "D:\\Projects\\C#\\Object-Oriented-Programming\\OOP - Lab 8\\OOP - Lab 8.csproj",
-      "packagesPath": "C:\\Users\\LilacNeverLoves\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\Object-Oriented-Programming\\OOP - Lab 8\\obj\\",
+      "projectPath": "/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/OOP - Lab 8.csproj",
+      "packagesPath": "/home/lilac/.nuget/packages/",
+      "outputPath": "/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LilacNeverLoves\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/lilac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

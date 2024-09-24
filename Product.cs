@@ -1,15 +1,27 @@
+using System.Runtime.Serialization;
 namespace OOP___Lab_8;
 
 //Abstract Product Class
+[DataContract]
+[KnownType(typeof(Wheat))]
+[KnownType(typeof(Tomato))]
+[KnownType(typeof(Sunflower))]
 public abstract class Product {
+    [DataMember]
     public decimal Cost { get; set; }
+    [DataMember]
     public decimal Value { get; set; }
+    [DataMember]
     public DateTime Start { get; set; }
+    [DataMember]
     public int Duration;
+    [DataMember]
     public decimal FertilizerCost { get; set; }
+    [DataMember]
     public decimal WaterCost { get; set; }
-
+    [DataMember]
     public int NumFertilizer { get; set; }
+    [DataMember]
     public int NumWater { get; set; }
     //Constructor
     public Product(decimal cost, decimal value, int duration, decimal fertilizerCost, decimal waterCost) {

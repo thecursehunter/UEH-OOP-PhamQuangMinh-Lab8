@@ -1,14 +1,29 @@
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\bin\Debug\net8.0\OOP - Lab 8.exe
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\bin\Debug\net8.0\OOP - Lab 8.deps.json
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\bin\Debug\net8.0\OOP - Lab 8.runtimeconfig.json
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\bin\Debug\net8.0\OOP - Lab 8.dll
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\bin\Debug\net8.0\OOP - Lab 8.pdb
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.GeneratedMSBuildEditorConfig.editorconfig
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.AssemblyInfoInputs.cache
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.AssemblyInfo.cs
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.csproj.CoreCompileInputs.cache
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.dll
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\refint\OOP - Lab 8.dll
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.pdb
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\OOP - Lab 8.genruntimeconfig.cache
-d:\Projects\C#\Object-Oriented-Programming\OOP - Lab 8\obj\Debug\net8.0\ref\OOP - Lab 8.dll
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/bin/Debug/net8.0/OOP - Lab 8.exe
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/bin/Debug/net8.0/OOP - Lab 8.deps.json
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/bin/Debug/net8.0/OOP - Lab 8.runtimeconfig.json
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/bin/Debug/net8.0/OOP - Lab 8.dll
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/bin/Debug/net8.0/OOP - Lab 8.pdb
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.AssemblyInfoInputs.cache
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.AssemblyInfo.cs
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.csproj.CoreCompileInputs.cache
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.dll
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/refint/OOP - Lab 8.dll
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.pdb
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/OOP - Lab 8.genruntimeconfig.cache
+d:/Projects/C#/Object-Oriented-Programming/OOP - Lab 8/obj/Debug/net8.0/ref/OOP - Lab 8.dll
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/bin/Debug/net8.0/OOP - Lab 8
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/bin/Debug/net8.0/OOP - Lab 8.deps.json
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/bin/Debug/net8.0/OOP - Lab 8.runtimeconfig.json
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/bin/Debug/net8.0/OOP - Lab 8.dll
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/bin/Debug/net8.0/OOP - Lab 8.pdb
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.AssemblyInfoInputs.cache
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.AssemblyInfo.cs
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.csproj.CoreCompileInputs.cache
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.sourcelink.json
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.dll
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/refint/OOP - Lab 8.dll
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.pdb
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/OOP - Lab 8.genruntimeconfig.cache
+/home/lilac/Projects/C#/Object-Oriented-Programming/OOP - Lab8/obj/Debug/net8.0/ref/OOP - Lab 8.dll

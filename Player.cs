@@ -1,9 +1,14 @@
-﻿namespace OOP___Lab_8;
+﻿using System.Runtime.Serialization;
+namespace OOP___Lab_8;
 
 //Player Class
+[DataContract]
 public class Player {
+    [DataMember]
     public string UserName { get; set; }
+    [DataMember]
     public decimal RewardPoints { get; set; }
+    [DataMember]
     public List<Product> Catalog { get; set; }
 
     public Player(string userName, decimal initialPoints)

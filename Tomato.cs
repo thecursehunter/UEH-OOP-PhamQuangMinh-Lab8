@@ -1,6 +1,9 @@
+using System.Runtime.Serialization;
+
 namespace OOP___Lab_8;
 
 //Tomato Class
+[DataContract]
 public class Tomato : Product {
     public Tomato() : base(15,60,5,3,2) {
         
